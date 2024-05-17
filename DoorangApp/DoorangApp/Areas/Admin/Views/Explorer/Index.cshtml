@@ -1,0 +1,48 @@
+﻿@using DoorangApp.Core.Models
+@model List<Explorer>
+@{
+    int count = 1;
+}
+<div class="container">
+    <h1>Explorers</h1>
+    <a class="btn btn-info" asp-action="Create" asp-controller="Explorer" >Create</a>
+
+
+</div>
+<div class="container">
+    <div class="row">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Subtitle</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Image</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model)
+                {
+                    <tr>
+                        <th scope="row">@count</th>
+                        <td>@item.Title</td>
+                        <td>@item.Subtitle</td>
+                        <td>@item.Description</td>
+                        <td>
+                            <img width="100px" src="/Uploads/Explorer/@item.ImgUrl" alt="Alternate Text" />
+                        </td>
+                        <td>
+                            <a class="btn btn-secondary" asp-action="Update" asp-controller="Explorer" asp-route-id="@item.Id">Update</a>
+                            <a class="btn btn-warning" asp-action="Delete" asp-controller="Explorer" asp-route-id="@item.Id">Delete</a>
+                        </td>
+
+                    </tr>
+                    count++;
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

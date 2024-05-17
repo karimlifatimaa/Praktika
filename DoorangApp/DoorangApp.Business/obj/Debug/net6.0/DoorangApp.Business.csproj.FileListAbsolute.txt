@@ -1,0 +1,17 @@
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\bin\Debug\net6.0\DoorangApp.Business.deps.json
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\bin\Debug\net6.0\DoorangApp.Business.dll
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\bin\Debug\net6.0\DoorangApp.Business.pdb
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\bin\Debug\net6.0\DoorangApp.Core.dll
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\bin\Debug\net6.0\DoorangApp.Data.dll
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\bin\Debug\net6.0\DoorangApp.Data.pdb
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\bin\Debug\net6.0\DoorangApp.Core.pdb
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\obj\Debug\net6.0\DoorangApp.Business.csproj.AssemblyReference.cache
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\obj\Debug\net6.0\DoorangApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\obj\Debug\net6.0\DoorangApp.Business.AssemblyInfoInputs.cache
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\obj\Debug\net6.0\DoorangApp.Business.AssemblyInfo.cs
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\obj\Debug\net6.0\DoorangApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\obj\Debug\net6.0\DoorangA.68E0F8A2.Up2Date
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\obj\Debug\net6.0\DoorangApp.Business.dll
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\obj\Debug\net6.0\refint\DoorangApp.Business.dll
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\obj\Debug\net6.0\DoorangApp.Business.pdb
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Business\obj\Debug\net6.0\ref\DoorangApp.Business.dll

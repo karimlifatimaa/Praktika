@@ -1,0 +1,12 @@
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\bin\Debug\net6.0\DoorangApp.Core.deps.json
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\bin\Debug\net6.0\DoorangApp.Core.dll
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\bin\Debug\net6.0\DoorangApp.Core.pdb
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\obj\Debug\net6.0\DoorangApp.Core.csproj.AssemblyReference.cache
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\obj\Debug\net6.0\DoorangApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\obj\Debug\net6.0\DoorangApp.Core.AssemblyInfoInputs.cache
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\obj\Debug\net6.0\DoorangApp.Core.AssemblyInfo.cs
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\obj\Debug\net6.0\DoorangApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\obj\Debug\net6.0\DoorangApp.Core.dll
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\obj\Debug\net6.0\refint\DoorangApp.Core.dll
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\obj\Debug\net6.0\DoorangApp.Core.pdb
+C:\Users\User1\OneDrive\Desktop\DoorangApp\DoorangApp\DoorangApp.Core\obj\Debug\net6.0\ref\DoorangApp.Core.dll
